@@ -3,4 +3,4 @@ project(extra_problems C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(extra_problems main.c)
+add_executable(extra_problems main.c recursiveFunctions.c recursiveFunctions.h)
